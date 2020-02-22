@@ -1,4 +1,4 @@
-package com.github.Ukasz09.eventObservers.observer;
+package com.github.Ukasz09.observer;
 
 /**
  * Observer/subscriber with pattern of behaviour for specific kind of event

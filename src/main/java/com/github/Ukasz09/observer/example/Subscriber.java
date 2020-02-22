@@ -1,7 +1,7 @@
-package com.github.Ukasz09.eventObservers.observer.example;
+package com.github.Ukasz09.observer.example;
 
-import com.github.Ukasz09.eventObservers.observer.EventKind;
-import com.github.Ukasz09.eventObservers.observer.IEventKindObserver;
+import com.github.Ukasz09.observer.EventKind;
+import com.github.Ukasz09.observer.IEventKindObserver;
 
 public class Subscriber implements IEventKindObserver {
     private int subscriberID;

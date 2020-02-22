@@ -1,6 +1,6 @@
-package com.github.Ukasz09.eventObservers.observer.example;
+package com.github.Ukasz09.observer.example;
 
-public class Main {
+public class ObserverPatternMain {
     public static void main(String[] args) {
         Newsletter newsletter = new Newsletter();
         newsletter.attachObserver(new Subscriber(1));

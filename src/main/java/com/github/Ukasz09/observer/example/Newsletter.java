@@ -1,8 +1,8 @@
-package com.github.Ukasz09.eventObservers.observer.example;
+package com.github.Ukasz09.observer.example;
 
-import com.github.Ukasz09.eventObservers.observer.EventKind;
-import com.github.Ukasz09.eventObservers.observer.IEventKindObservable;
-import com.github.Ukasz09.eventObservers.observer.IEventKindObserver;
+import com.github.Ukasz09.observer.EventKind;
+import com.github.Ukasz09.observer.IEventKindObservable;
+import com.github.Ukasz09.observer.IEventKindObserver;
 
 import java.util.HashSet;
 import java.util.Set;
