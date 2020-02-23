@@ -3,7 +3,6 @@ package com.github.Ukasz09.designPatternsExamples.creationalPatterns.builder;
 import com.github.Ukasz09.designPatternsExamples.creationalPatterns.builder.tankAssets.CrewType;
 import com.github.Ukasz09.designPatternsExamples.creationalPatterns.builder.tankAssets.Nation;
 import com.github.Ukasz09.designPatternsExamples.creationalPatterns.builder.tankAssets.VehicleTypes;
-import javafx.scene.control.TableColumn;
 
 import java.util.ArrayList;
 import java.util.List;
