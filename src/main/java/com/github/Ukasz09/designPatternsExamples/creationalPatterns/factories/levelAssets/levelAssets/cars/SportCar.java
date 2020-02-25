@@ -1,7 +1,7 @@
-package com.github.Ukasz09.designPatternsExamples.creationalPatterns.factory.levelAssets.cars;
+package com.github.Ukasz09.designPatternsExamples.creationalPatterns.factories.levelAssets.levelAssets.cars;
 
-import com.github.Ukasz09.designPatternsExamples.creationalPatterns.factory.levelAssets.cars.carAssets.EngineType;
-import com.github.Ukasz09.designPatternsExamples.creationalPatterns.factory.levelAssets.cars.carAssets.SuspensionType;
+import com.github.Ukasz09.designPatternsExamples.creationalPatterns.factories.levelAssets.levelAssets.cars.carAssets.EngineType;
+import com.github.Ukasz09.designPatternsExamples.creationalPatterns.factories.levelAssets.levelAssets.cars.carAssets.SuspensionType;
 
 public class SportCar extends Car {
     private static final double TOP_SPEED = 300;
