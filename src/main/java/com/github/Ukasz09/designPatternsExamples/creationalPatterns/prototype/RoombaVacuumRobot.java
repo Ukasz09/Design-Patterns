@@ -5,6 +5,7 @@ import java.util.Objects;
 public class RoombaVacuumRobot extends Robot {
     private double dustContainerCapacity;
 
+    //----------------------------------------------------------------------------------------------------------------//
     public RoombaVacuumRobot(double batteryCapacity, double dustContainerCapacity) {
         super(batteryCapacity);
     }
@@ -15,6 +16,7 @@ public class RoombaVacuumRobot extends Robot {
             this.dustContainerCapacity = robot.dustContainerCapacity;
     }
 
+    //----------------------------------------------------------------------------------------------------------------//
     @Override
     public void doJob() {
         System.out.println(this);

@@ -5,6 +5,7 @@ import java.util.Objects;
 public abstract class Robot {
     private double batteryCapacity;
 
+    //----------------------------------------------------------------------------------------------------------------//
     public Robot(double batteryCapacity) {
         this.batteryCapacity = batteryCapacity;
     }
@@ -14,6 +15,7 @@ public abstract class Robot {
             this.batteryCapacity = robot.batteryCapacity;
     }
 
+     //----------------------------------------------------------------------------------------------------------------//
     public abstract void doJob();
 
     @Override

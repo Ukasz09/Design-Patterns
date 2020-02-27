@@ -7,6 +7,7 @@ public class WarRobot extends Robot {
     private double speed;
     private double strength;
 
+    //----------------------------------------------------------------------------------------------------------------//
     public WarRobot(double batteryCapacity, double hp, double speed, double strength) {
         super(batteryCapacity);
         this.hp = hp;
@@ -23,6 +24,7 @@ public class WarRobot extends Robot {
         }
     }
 
+    //----------------------------------------------------------------------------------------------------------------//
     @Override
     public void doJob() {
         System.out.println(this);
