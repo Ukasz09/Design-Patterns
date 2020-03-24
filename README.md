@@ -29,4 +29,3 @@ ___
 Created by <br/>
 <a href="https://github.com/Ukasz09" target="_blank"><img src="https://avatars0.githubusercontent.com/u/44710226?s=460&v=4"  width="100px;"></a>
 <br/> gajerski.lukasz@gmail.com - feel free to contact me! ✊
->>>>>>> 9faab3bc166b25770693b084a6dc56d4fd8a736f
