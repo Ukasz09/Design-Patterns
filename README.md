@@ -9,6 +9,7 @@ My example implementation of some of the design patterns <br/>
     - ✅ Mediator <br/>
     - ✅ Observer <br/>
     - ✅ Strategy <br/>
+    - ✅ Template method <br/>
 
 - Creational<br/>
     - ✅ Builder <br/>
