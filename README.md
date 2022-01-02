@@ -1,4 +1,4 @@
-# 🎯 Design-Patterns [![License](https://img.shields.io/badge/licence-MIT-blue)](https://choosealicense.com/licenses/mit/) [![Status](https://img.shields.io/badge/status-work--in--progress-yellow)](https://github.com/Ukasz09/Design-Patterns)
+# 🎯 Design-Patterns [![License](https://img.shields.io/badge/licence-MIT-blue)](https://choosealicense.com/licenses/mit/)
 
 My example implementation of some of the design patterns <br/>
 
